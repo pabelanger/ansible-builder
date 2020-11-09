@@ -12,6 +12,7 @@ setup-to-compare.py
 .cache/
 
 # testing and examples
+.tox/
 /test/data/bc/
 artifacts/
 /docs/_build/
